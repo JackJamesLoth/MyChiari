@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyChiari</string>
+    <string name="main_greeting_default">Hello user!</string>
+    <string name="main_reports_default">Symptom reports completed: 0</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
